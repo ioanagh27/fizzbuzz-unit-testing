@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioanagh27/fizzbuzz-unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioanagh27/fizzbuzz-unit-testing/issues"
+  },
+  "homepage": "https://github.com/ioanagh27/fizzbuzz-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
